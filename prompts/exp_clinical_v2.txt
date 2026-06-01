@@ -1,0 +1,13 @@
+SCENE: A clinical before-and-after aesthetic comparison — two head-and-shoulders frames of the SAME woman, side by side on one seamless neutral medium-gray studio background. Shot on a Canon EOS R5 with an 85mm f/8 lens, even medical softbox + ring lighting, deep depth of field with the entire face sharp and the background fully in focus (NO bokeh, no background blur). Photorealistic real clinical photograph, natural color balance, eye-level, medium close-up.
+
+SUBJECT: Preserve her exact facial identity from the reference — same bone structure, face shape, slightly asymmetric natural features, eye color and spacing, nose, lips, hairline, hair color and length, and skin tone. She must be clearly recognizable as the same individual in both frames. Front-facing, head centered and level, calm neutral expression, plain gray crew-neck top.
+
+LEFT FRAME (BEFORE): visible facial aging — mild jowls along the jawline, deeper nasolabial folds, under-eye puffiness and hollows, looser lower-face and neck skin.
+
+RIGHT FRAME (AFTER): the same woman looking naturally refreshed — a tighter, more defined jawline, smoother and firmer cheeks, reduced nasolabial folds, brighter and lifted under-eye area, healthier even skin. Keep the rejuvenation subtle and believable, NOT overdone or glamorized.
+
+TEXTURE: realistic skin with visible micro-pores, fine lines, subtle specular highlights on the skin, faint natural skin-tone variation, individual hair strands. No plastic skin, no waxy CGI sheen, no airbrushing, no heavy retouching.
+
+KEEP EVERYTHING ELSE THE SAME across both frames: identical framing, scale, head position, camera angle, background gray, top color, and lighting — so the two read as a matched clinical pair. Change ONLY the facial-aging cues described above.
+
+CONSTRAINTS: No text, no labels, no watermarks, no borders, no dividing line drawn on the image.
